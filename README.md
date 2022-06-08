@@ -1,1 +1,1 @@
-# https-github.com-Meraki6-Numerical-Methods-of-American-Put-Options
+# Numerical-Methods-of-American-Put-Options
