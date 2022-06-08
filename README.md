@@ -1,1 +1,1 @@
-# Numerical-Methods-of-American-Put-Options
+#  Finite-Difference-Methods-of-Pricing-American-Put-Options-with-Discrete-Dividends
